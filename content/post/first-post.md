@@ -3,7 +3,7 @@ title: "First Post"
 date: 2017-09-06T20:48:55-04:00
 description : "This is a post."
 type: "post"
-draft: true
+draft: false
 ---
 This is a post. Enjoy it.
 
